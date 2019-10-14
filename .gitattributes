@@ -1,1 +1,2 @@
-*.html linguist-language=RMarkdown
+* linguist-vendored
+*.rmd linguist-vendored=false
